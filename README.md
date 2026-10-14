@@ -56,4 +56,3 @@ https://go-together-react.vercel.app
 - Integrate a PostgreSQL database
 - Implement secure authentication
 - Build a functional activity-joining system
-- 
